@@ -3,8 +3,11 @@ A basic chat-room application.
 Created using tkinter (for GUI), pymysql (for MySQL DBMS), paho-mqtt (for MQTT Protocol) library of Python.
 
 ## Introduction
-This project was created for IoT Lab Project in 3rd Year (6th Semester). It is a chat room application currently programmed to work on a local host machine and it's connected network. The messaging rooms are temporarily created and all the conversation is vanished after the room is closed. The concept for room creation and identification is based on "_Roomm Number_" and "_password_".
+This project was created for IoT Lab Project in 3rd Year (6th Semester). It is a chat room application currently programmed to work on a local host machine and it's connected network. The messaging rooms are temporarily created and all the conversation is vanished after the room is closed. The concept for room creation and identification is based on "_Room Number_" and "_password_".
 A person could access a room with Room Number and Password of that room. A random room can be started and infromation can be stored in a local database using MySQL, one could access the rooms from the credentials of the rooms created. This is a leraning porject to use these technologies.
+
+## Using SunOye
+The steps to use SunOye is rather simple and striaght-forward.
 
 ## How does it Work?
  * Using _tkinter_ library in Python we create a basic GUI for the intial Room Login, Create Room and Room Windows. These Rooms have their credentials stored in the local database (created using MySQL on the localhost).
