@@ -9,7 +9,9 @@ A person could access a room with Room Number and Password of that room. A rando
 ## Using SunOye
 The steps to use SunOye is rather simple and striaght-forward.
 The folowing flow chart represents the step flow of the app:
-<center>![Flowchart of SunOye](https://github.com/Perfecto06/SunOye-1/blob/main/SunOye.jpg)</center>
+<center>
+  ![Flowchart of SunOye](https://github.com/Perfecto06/SunOye-1/blob/main/SunOye.jpg)
+</center>
 <break>
 **Fig. Flowchart of SunOye**
 <break>
