@@ -8,6 +8,18 @@ A person could access a room with Room Number and Password of that room. A rando
 
 ## Using SunOye
 The steps to use SunOye is rather simple and striaght-forward.
+The folowing flow chart represents the step flow of the app:
+![Flowchart of SunOye](https://github.com/Perfecto06/SunOye-1/blob/main/SunOye.jpg)
+**Fig. Flowchart of SunOye**
+<font size='14'>Step 1-</font>
+
+<font size='14'>Step 2-</font>
+
+<font size='14'>Step 3-</font>
+
+<font size='14'>Step 4-</font>
+
+<font size='14'>Step 5-</font>
 
 ## How does it Work?
  * Using _tkinter_ library in Python we create a basic GUI for the intial Room Login, Create Room and Room Windows. These Rooms have their credentials stored in the local database (created using MySQL on the localhost).
