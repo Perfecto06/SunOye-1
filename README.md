@@ -14,16 +14,6 @@ The folowing flow chart represents the step flow of the app:
 
 
 **Fig. Flowchart of SunOye**
-<break>
-<font size='14'>Step 1-</font>
-
-<font size='14'>Step 2-</font>
-
-<font size='14'>Step 3-</font>
-
-<font size='14'>Step 4-</font>
-
-<font size='14'>Step 5-</font>
 
 ## How does it Work?
  * Using _tkinter_ library in Python we create a basic GUI for the intial Room Login, Create Room and Room Windows. These Rooms have their credentials stored in the local database (created using MySQL on the localhost).
@@ -34,3 +24,6 @@ The folowing flow chart represents the step flow of the app:
  * Database also tracks the number of members in the rooms, when a room is empty it is set to inactive and won't be available for use without creating.
 
 ## Tools and Technologies
+ * Python 3.6 (PyCharm IDE)
+ * _tkinter_, _paho-mqtt_, _pymysql_ python library for GUI, MQTT Protocol and MySQL respectively
+ * HiveMQ Public Broker for MQTT Broker Server
